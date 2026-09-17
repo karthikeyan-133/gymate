@@ -1,0 +1,6 @@
+{
+  "name": "FITLY - Fitness & Nutrition Advisor",
+  "description": "A premium, simple, modern personal fitness and nutrition companion to track daily calories, macros, water, workouts, and weight progress.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
